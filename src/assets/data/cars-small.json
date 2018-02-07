@@ -1,0 +1,14 @@
+{
+    "data": [
+        {"articleid": "VW", "title": 2012, "category": "Orange", "vin": "dsad231ff"},
+        {"articleid": "Audi", "title": 2011, "category": "Black", "vin": "gwregre345"},
+        {"articleid": "Renault", "title": 2005, "category": "Gray", "vin": "h354htr"},
+        {"articleid": "BMW", "title": 2003, "category": "Blue", "vin": "j6w54qgh"},
+        {"articleid": "Mercedes", "title": 1995, "category": "Orange", "vin": "hrtwy34"},
+        {"articleid": "Volvo", "title": 2005, "category": "Black", "vin": "jejtyj"},
+        {"articleid": "Honda", "title": 2012, "category": "Yellow", "vin": "g43gr"},
+        {"articleid": "Jaguar", "title": 2013, "category": "Orange", "vin": "greg34"},
+        {"articleid": "Ford", "title": 2000, "category": "Black", "vin": "h54hw5"},
+        {"articleid": "Fiat", "title": 2013, "category": "Red", "vin": "245t2s"}
+    ]
+}
